@@ -20,6 +20,10 @@
 | OGC API - Maps
 | https://github.com/aaime[Andrea Aime]
 
+| https://storage.googleapis.com/ogcsprint/index.html[Hexagon LuciadRIA]
+| OGC API - Maps
+| https://github.com/Mortivice[Tom Crauwels]
+
 | TBA
 | TBA
 | TBA
